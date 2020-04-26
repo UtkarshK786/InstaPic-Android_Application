@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885182993440",
+    "firebase_url": "https://instapic-c4f83.firebaseio.com",
+    "project_id": "instapic-c4f83",
+    "storage_bucket": "instapic-c4f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885182993440:android:421484231917eaa03fd845",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885182993440-1epuod2j8rlaie571e7dinvk0ddf7hbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "01c2290dff7730d8b7866b0d7a00946da51508d9"
+          }
+        },
+        {
+          "client_id": "885182993440-29sjae6tifptags0jjino5obcegvib90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0H4vLibK4Jf2Mj7IzMPXCc3vfE1VVpRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885182993440-29sjae6tifptags0jjino5obcegvib90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
